@@ -1,12 +1,10 @@
-# S4MR 공식 배포 페이지
-**Sims 4 Mod Room**
-
-심즈 4 모드를 자동으로 정리하고 편집하는 프로그램입니다.
+# S4MR 공식 배포 페이지 
+**Sims 4 Mod Room** | 심즈 4 모드를 자동으로 정리하고 편집하는 프로그램입니다.
 
 <img width="1590" height="1078" alt="1" src="https://github.com/user-attachments/assets/5d36be37-6648-4d38-ba09-de4191545ebb" />
 
-
-[최신 버전 다운로드](https://github.com/XOOX-kr/S4MR/releases/latest) · [전체 업데이트 내역](https://github.com/XOOX-kr/S4MR/releases)
+[최신 버전 다운로드](https://github.com/XOOX-kr/S4MR/releases/latest)
+[전체 업데이트 내역](https://github.com/XOOX-kr/S4MR/releases)
 
 ---
 
