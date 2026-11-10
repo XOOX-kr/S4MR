@@ -4,6 +4,7 @@
 <img width="1590" height="1078" alt="1" src="https://github.com/user-attachments/assets/5d36be37-6648-4d38-ba09-de4191545ebb" />
 
 [최신 버전 다운로드](https://github.com/XOOX-kr/S4MR/releases/latest)
+
 [전체 업데이트 내역](https://github.com/XOOX-kr/S4MR/releases)
 
 ---
